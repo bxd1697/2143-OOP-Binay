@@ -9,9 +9,9 @@
 
 |   #   | File                           |         Description                                                          |
 | :---: | ------------------------------ | -----------------------------------------------------------------------      |
-|   1   | [fraction.cpp] fractions.cpp   | Main program that performs the fractional operations.                        |
-|   2   | [fraction.h]fraction.h         | Class definition file                                                        |
-|   3   | [fraction.txt]fractions.txt    | this is the input that file contains data on which operations are done       |
+|   1   | [fraction.cpp](fractions.cpp)   | Main program that performs the fractional operations.                        |
+|   2   | [fraction.h](fraction.h)         | Class definition file                                                        |
+|   3   | [fraction.txt](fractions.txt)    | this is the input that file contains data on which operations are done       |
 
 ### Instructions
 
