@@ -3,24 +3,20 @@
 ### Binay Devkota
 ### Description:
 
-// Bacon ipsum dolor amet pork loin kielbasa pork, drumstick leberkas shankle strip steak fatback beef ribs ham hock.
-Pork short ribs doner andouille cupim pastrami picanha landjaeger pig. Salami swine capicola spare ribs boudin
-leberkas. Capicola ground round pork meatloaf, ham jowl swine prosciutto bacon alcatra pancetta burgdoggen pig
-spare ribs leberkas. Shankle fatback ground round, porchetta frankfurter cupim venison strip steak pig meatball
-biltong filet mignon. Shoulder chislic ground round pork burgdoggen hamburger.
+// This program does the fractional operations like multiplication, addition, substraction and division of any two given fractional numbers. It take input file containing data(i.e. fractions) .Fraction is given in the form of numerator/denominator. The data in the input file is given in the form fraction1(f1)<<oprator>>fraction2(f2).This programs runs the operations to give the final simplified version of answer in the form of fraction.
 
 ### Files
 
-|   #   | File            | Description                                        |
-| :---: | --------------- | -------------------------------------------------- |
-|   1   | Main.py         | Main driver of my project that launches game.      |
-|   2   | HelperClass.py  | Helper class that holds movement functions         |
-|   3   | TextureClass.py | Helper class that assists with textures and images |
+|   #   | File            | Description                                                 |
+| :---: | --------------- | ----------------------------------------------------------  |
+|   1   | fractions.cpp    | Main program that performs the fractional operations.      |
+|   2   | fractions.txt   | Helper class that holds movement functions                  |
+|   3   | TextureClass.py | Helper class that assists with textures and images          |
 
 ### Instructions
 
 - Make sure you install library `blahblah.py`
-- My program expects two parameters to be placed on the command line when you run the program.
+- This code requires a input .txt file names as fractions.txt to run fractional operations.
 - Parameters `<input file> <number of players>`
 - The input file should be formatted with a players name and age on a seperate line:
 
