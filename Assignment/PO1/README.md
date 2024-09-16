@@ -17,16 +17,13 @@
 
 - Make sure you install library `blahblah.py`
 - This code requires a input .txt file names as fractions.txt to run fractional operations.
-- Parameters `<input file> <number of players>`
-- The input file should be formatted with a players name and age on a seperate line:
+- Input file should have the data in a format such as "f1(n/d) operator f2(n/d).
+  
 
-+------------+
-| name1 age1 |
-| name2 age2 |
-| etc...     |
-+------------+
 
 - Example Command:
-    - `python <code> <input file> <num players>`
-    - `python main.py input.txt 3`
+    - to compile use "g++ sourcefilename.cpp "
+
+    - to run use "./a.out"
+
 //
