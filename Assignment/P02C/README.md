@@ -1,8 +1,7 @@
 
 # Knucklebones Game
 
-This is an enhanced terminal-based implementation of the Knucklebones game using `ncurses`. The game now includes a visually distinct grid, clearer dice displays, and improved gameplay feedback.
-
+This is a  Knucklebones game developed using `ncurses`. 
 ## Features
 - **Visual Grid:** A proper 3x3 grid for both players is now displayed with separators.
 - **Dynamic Dice Animation:** shows rolling dice kind of behavior like spinning random digit and generating random digit from 0-6.
@@ -50,8 +49,8 @@ This is an enhanced terminal-based implementation of the Knucklebones game using
 ## Notes
 This project is designed for educational purposes to demonstrate `ncurses` usage and C++ programming skills.
 
-## Authors
-- Developed using `ncurses` and C++ by OpenAI's Assistant.
+## Resources
+- Developed using `ncurses` and C++ 
 
 
 ## Areas for Improvement
